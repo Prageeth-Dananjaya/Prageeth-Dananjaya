@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prageeth Dananjaya</h1>
-<h3 align="center">Computer Engineering Undergraduate of University of Peradenita</h3>
+<h3 align="center">Computer Engineering Undergraduate of University of Peradeniya</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
